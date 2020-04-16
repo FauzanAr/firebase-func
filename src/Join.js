@@ -44,4 +44,6 @@ const Join = () => {
             </form>
         </div>
     );
-}
+};
+
+export default Join;
